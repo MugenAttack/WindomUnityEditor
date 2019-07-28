@@ -1,3 +1,3 @@
 # WindomUnityEditor
 
-Place Folder into unity asset folder.
+Place hod.cs and editor Folder into unity asset folder.
